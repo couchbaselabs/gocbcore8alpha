@@ -1,8 +1,12 @@
-# Couchbase Go Core
+# Couchbase Go Core v8 Alpha
 
 This package provides the underlying Couchbase IO for the gocb project.
+This package is the alpha version of the upcoming v8 release, if you are
+looking for the official stable package then use [gocbcore](https://github.com/couchbase/gocbcore).
+
 If you are looking for the Couchbase Go SDK, you are probably looking for
-[gocb](https://github.com/couchbase/gocb).
+[gocb](https://github.com/couchbase/gocb) for stable or [gocb2alpha](https://github.com/couchbaselabs/gocb2alpha)
+for the alpha corresponding to this package.
 
 
 ## Branching Strategy
